@@ -1,20 +1,7 @@
-# masteruah
+# **Compañeros de clase:**
 
-## titulo de segundo nivel 1.
-
-### titulo de tercer nivel
-
-- Lista sin numerar
-- Otro elemento
-- Otro
-
-1. Lista numerada
-3. Otro item
-19. Otro item mas
-
-Texto en **negrita**
-Texto en *cursiva*
-Texto ~~tachado~~
-
-[texto del enlace](http://google.com)
+| **Nombre**    | **GITHUB**                                                     |
+|  Carlos Javier| [Enlace a Github](https://github.com/cjalvarez-git/masteruah)  |
+|  Angel Moya   | [Enlace a Github](https://github.com/AngelManuelMoya/masteruah)|
+|  Angel Moya   | [Enlace a Github](https://github.com/talusito/masteruah)       |
 
